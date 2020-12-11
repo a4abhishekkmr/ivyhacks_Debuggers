@@ -19,6 +19,6 @@ IDEA:
 	*How to tackle the situtation if a data node fails?
 
 
-![](mages/summary_1.jpeg)
+![](images/summary_1.jpeg)
 
 ![](images/summary_2.jpeg)
