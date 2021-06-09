@@ -22,6 +22,6 @@ To create a personal database using hadoop cluster with capacity of terabytes to
 	*How to tackle the situtation if a data node fails?
 
 
-![](mages/summary_1.jpeg)
+![](images/summary_1.jpeg)
 
 ![](images/summary_2.jpeg)
